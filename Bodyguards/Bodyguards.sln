@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bodybuards", "Bodyguards\Bodyguards.vcxproj", "{A9127A72-5894-42BB-823C-0BDD249F9ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9127A72-5894-42BB-823C-0BDD249F9ADF}.Release|x64.ActiveCfg = Release|x64
+		{A9127A72-5894-42BB-823C-0BDD249F9ADF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3B6287-12CD-4D5C-867F-21E071227417}
+	EndGlobalSection
+EndGlobal
